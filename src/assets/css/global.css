@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.roboto-font {
+    font-family: "Roboto", sans-serif;
+}
+
+.clip-hero {
+    clip-path: polygon(10% 0, 100% 0%, 100% 100%, 0 100%);
+}
+
+.h-600-custom {
+    height: 600px;
+}
